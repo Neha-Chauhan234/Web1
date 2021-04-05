@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size:50px;
+    color: white;
+    text-align: center;
+}
+h3{
+color: aquamarine;
+font-size:16px ;
+text-align: center;
+}
+div{
+    text-align: center;
+    
+}
+h2{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+#myid{
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+.first{
+    text-align: center;
+}
+.third{
+    text-align: center;
+}
+#four{
+    text-align: right;
+    font-size: 16px;
+    color: aquamarine;
+}
+
